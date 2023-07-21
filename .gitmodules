@@ -1,0 +1,9 @@
+[submodule "Conversion_rate_challenge"]
+	path = Conversion_rate_challenge
+	url = https://github.com/loft897/Conversion_rate_challenge.git
+[submodule "Walmart-Sales"]
+	path = Walmart-Sales
+	url = https://github.com/loft897/Walmart-Sales.git
+[submodule "Uber_Pickups"]
+	path = Uber_Pickups
+	url = https://github.com/loft897/Uber_Pickups.git
